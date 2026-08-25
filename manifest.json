@@ -1,0 +1,21 @@
+{
+  "short_name": "KHOZ3A",
+  "name": "KHOZ3A Fitness",
+  "icons": [
+    {
+      "src": "/assets/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#121212",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#121212"
+}
